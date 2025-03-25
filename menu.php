@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container my-4">
-        <h1 class="text-center">Menu</h1>
+        <h1 class="text-center">CuidaDoso</h1>
         <hr>
         <nav class="nav justify-content">
             <a style="align-items: flex-start;">
