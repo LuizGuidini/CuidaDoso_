@@ -8,6 +8,12 @@ body {
   margin: 0;
 }
 
+.central-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .card {
   margin-top: 50px;
 }
@@ -51,6 +57,16 @@ button:hover {
   background-color: #0056b3;
 }
 
+.botao-panico{
+    background-image: url('SOS.jpg');
+    background-size: cover; /* Ajusta a imagem para cobrir todo o botão */
+    background-position: center; /* Centraliza a imagem */
+    border: none; /* Remove a borda padrão do botão */
+    color: white; /* Cor do texto do botão */
+    padding: 10px 20px; /* Espaçamento interno do botão */
+    font-size: 16px; /* Tamanho da fonte do texto */
+    cursor: pointer; /* Muda o cursor para indicar que é clicável */
+}
 .cadastro-container {
   background-color: #fff;
   padding: 20px;
