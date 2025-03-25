@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-        $page_content='sobre.html';
+        $page_content='index.html';
         include('master.php');
     ?>
     
