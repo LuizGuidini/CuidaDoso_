@@ -1,0 +1,56 @@
+ideias para o Cuidadoso
+
+-cadastro de usuário principal - quando esta cadastrando tem selecionar um  amigo na agenda do celular para ficar como segundo usuário
+
+-cadastro do amigo - depois do cadastro do usuário sera enviado uma mensagem watsapp para o amigo selecionado na lista de contatos com o link para baixar o app e um token para fazer o seu login como amigo (a mesma tela de cadastro porem selecionado amigo)
+
+- sera possível na mesma tela de cadastro fazer o cadastro como colaborador, porem se essa opção for selecionada, para concluir o cadastro tera que abrir outra tela com cadastro mais completo para motoristas e clinicas.
+
+-todas as paginas do app tem o botão do pânico que fara ligação para amigo cadastrado e na pagina de login para numero de emergências.
+
+-sera possível agendar compromissos pelo usuário principal e amigo
+
+-sera possível cadastro de consultas quando usuário colaborador for clinica
+
+-usuário principal e colaborador poderá fazer pedido de motorista selecionando em uma lista
+
+-tera exemplos de atividades diárias
+
+-tera links para receitas culinárias
+
+-sera possível cadastro de horários de remédio por usuário e amigo
+
+
+Essas ideias para o app Cuidadoso parecem ótimas! Aqui estão alguns pontos que podem ajudar a aprimorar ainda mais o desenvolvimento:
+
+Cadastro de Usuário Principal:
+
+Seleção de Amigo: Facilitar a seleção de um amigo na agenda do celular para ser o segundo usuário.
+Cadastro do Amigo:
+
+Mensagem Automática: Enviar uma mensagem automática via WhatsApp com o link para baixar o app e um token para login como amigo.
+Cadastro de Colaborador:
+
+Opção de Colaborador: Permitir o cadastro como colaborador na mesma tela, mas abrir uma tela adicional para cadastro mais completo de motoristas e clínicas.
+Botão de Pânico:
+
+Função de Emergência: Incluir um botão de pânico em todas as páginas do app que liga para o amigo cadastrado ou para números de emergência na página de login.
+Agendamento de Compromissos:
+
+Agendamento: Permitir que tanto o usuário principal quanto o amigo possam agendar compromissos.
+Cadastro de Consultas:
+
+Consultas: Permitir que colaboradores que sejam clínicas possam cadastrar consultas.
+Pedido de Motorista:
+
+Seleção de Motorista: Usuário principal e colaborador podem solicitar motoristas de uma lista disponível.
+Atividades Diárias:
+
+Exemplos de Atividades: Incluir exemplos de atividades diárias para os usuários.
+Receitas Culinárias:
+
+Links para Receitas: Disponibilizar links para receitas culinárias.
+Horários de Remédio:
+
+Cadastro de Horários: Permitir que usuários e amigos cadastrem horários de medicação.
+Essas funcionalidades podem tornar o app Cuidadoso muito útil e abrangente. Você já pensou em alguma estratégia de marketing para promover o app?
