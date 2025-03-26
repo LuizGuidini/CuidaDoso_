@@ -8,6 +8,12 @@ body {
   margin: 0;
 }
 
+.container {
+  width: 100%;
+  max-width: 600px;
+  padding: 20px;
+}
+
 .central-logo {
   display: flex;
   justify-content: center;
@@ -74,8 +80,6 @@ button:hover {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-h-bottom: 20px;
-}
 
 label {
   display: block;
@@ -126,6 +130,35 @@ button {
 
 button:hover {
   background-color: #c82333;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #f8f9fa;
+  padding: 10px 0;
+  box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.1);
+}
+
+#panic-button {
+  background-color: #dc3545;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+#panic-button:hover {
+  background-color: #c82333;
+}
+
+.panic-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
 }
 
 @media (max-width: 600px) {

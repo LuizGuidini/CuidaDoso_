@@ -8,23 +8,25 @@
     <link rel="stylesheet" href="styles/styles.css">
 </head>
 <body>
-    <div class="container my-4">
-        <h1 class="text-center">CuidaDoso</h1>
-        <hr>
-        <nav class="nav justify-content">
-            <a style="align-items: flex-start;">
-                <img src="assets/logo1.png" alt="Home" width="60" height="60">
-            </a> 
-            <a class="nav-link custom-nav-link mx-2" href="index.php">
-                <h1>Entrar</h1> 
-            </a>
-            <a class="nav-link custom-nav-link mx-2" href="page2.php">
-                <h1>Entrar</h1>
-            </a>
-           
-        </nav>
-        <hr>
-    </div>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">CuidaDoso</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Cadastro</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Login</a>
+      </li>
+    </ul>
+  </div>
+</nav>
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </body>
