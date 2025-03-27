@@ -21,7 +21,6 @@ ideias para o Cuidadoso
 -sera possível cadastro de horários de remédio por usuário e amigo
 
 
-Essas ideias para o app Cuidadoso parecem ótimas! Aqui estão alguns pontos que podem ajudar a aprimorar ainda mais o desenvolvimento:
 
 Cadastro de Usuário Principal:
 
@@ -53,4 +52,24 @@ Links para Receitas: Disponibilizar links para receitas culinárias.
 Horários de Remédio:
 
 Cadastro de Horários: Permitir que usuários e amigos cadastrem horários de medicação.
-Essas funcionalidades podem tornar o app Cuidadoso muito útil e abrangente. Você já pensou em alguma estratégia de marketing para promover o app?
+
+Sempre:
+Em todas as telas terá o logo e o botão do pânico que na tela de Login tera chamada direto a serviços de emergência, nas outras telas ligação para contato e emergências
+
+Tela Login:
+Ao abrir o app, iniciara com a tela de login e cadastro, com um nav para selecionar entre um ou outro, no login sera possível com gmail ou email/cpf, senha e seleção de tipo de usuário (principal / amigo / colaborador). Na tela de cadastro também terão opções de cadastro com gmail então so sera necessário selecionar também o tipo de usuário. - Se for principal terá que ter email, cpf, senha e o numero de um amigo na lista de contatos do telefone (sera enviado uma mensagem watsswap para contato selecionado, com link para baixar o app e um código Token para cadastro como amigo). - Se for Amigo terá que ter email, cpf, senha e o numero do Token recebido - Se for Colaborador abrira tela para cadastro completo com, email, seleção entre clinica/medico e motorista, CNPJ/cpf, registro/cnh, endereço/tipo carro, arquivo de imagem(foto) ...
+
+Tela inicial(Principal/Amigo):
+no head logo saudação com nome do usuário, emogi e a cor dependendo do usuário, também data e hora
+no body links para Meus Compromissos, atividades, Lugares, Motorista, Numeros Rapidos, mapa com localização real, previsão do tempo e meu emogi
+no footer padrao de CuidaDoso by L2M DeploySmart e Botão do Panico
+
+Tela Meus Compromissos:
+no head emogi, Meus Compromissos, logo e a cor dependendo do usuário
+no body links para Ver agenda, Cadasstrar Remedio, Agendar, Agendar Motorista, Contatos, horaios do dia, mensagem do dia
+no footer padrao de CuidaDoso by L2M DeploySmart, mensagem da agenda e Botão do Panico
+
+Tela Atividades:
+no head emogi, Atividades, logo e a cor dependendo do usuário
+no body Mensasgem de Atividades, links para Videos, Jogos, Exercicios, Receitas, Uma animação, Contatos, horaios do dia, mensagem do dia
+no footer padrao de CuidaDoso by L2M DeploySmart, mensagem Movimente seu dia e Botão do Panico
